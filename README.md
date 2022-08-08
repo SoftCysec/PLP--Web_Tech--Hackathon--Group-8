@@ -4,11 +4,11 @@ This is a web technologies hackathon that was held by PowerLearnProject from 5th
 The hackathon comprised of 4 challenges where the teams were supposed to use only HTML, CSS and vanilla Javascript. No frameworks were supposed to be implemented during the hackathon. After completing all the challenges we deployed them to the internet.
 1. Website portfolio --- 
 - suppoed to create a website portfolio that will display the About of the group members, Services that we will be offering, Testimonials of the group members
-3. Authentication System --- 
+2. Authentication System --- 
 - the team created an authentication system that used vanilla Javascript that a login page will authenticate a user. After a successful login, the user will be taken to the To-Do list website.
-5. To-Do list --- 
+3. To-Do list --- 
 - After a succesful authentication from the previous challenge, the user will be able to access the To-Do list website where a user is able to create to-do tasks, mark or unmark them as complete, delete the tasks and update them.
-7. ATM Machine Web Application --- 
+4. ATM Machine Web Application --- 
 - A web application was created that mimics the ATM machine where a user can check for balances, deposit cash , withdraw cash, transfer funds from one account to another, see transaction logs, exit the ATM site.
 # Group 8 Members & Contributers
 1. Dedan Okware --- soft.eng.dedan@gmail.com
