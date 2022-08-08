@@ -1,6 +1,7 @@
 # PLP--Web_Tech--Hackathon--Group-8
 This is a web technologies hackathon that was held by PowerLearnProject from 5th of August to 8th of August. The whole team that registered for the hackathon was divided in small groups competing amongst ourselves for a prize of winning 500 dollars.
 # Hackathon Challenges
+The hackathon comprised of 4 challenges where the teams were supposed to use only HTML, CSS and vanilla Javascript. No frameworks were supposed to be implemented during the hackathon. After completing all the challenges we deployed them to the internet.
 1. Website portfolio --- 
 - suppoed to create a website portfolio that will display the About of the group members, Services that we will be offering, Testimonials of the group members
 3. Authentication System --- 
