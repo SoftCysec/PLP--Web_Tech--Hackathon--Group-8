@@ -8,8 +8,9 @@ The hackathon comprised of 4 challenges where the teams were supposed to use onl
 - the team created an authentication system that used vanilla Javascript that a login page will authenticate a user. After a successful login, the user will be taken to the To-Do list website.
 - login page where a user will use the default credentials to sign in
 ![](Web_challenge_2/image1.jpeg)
-- now when the user enters wrong credentials an error alert appears and the user is alerted on the number of attempts remaining before the user is locked out
-![](Web_challenge_2/image2.jpeg)    ![](Web_challenge_2/image3.jpeg)
+- now when the user enters wrong credentials an error alert appears and the user is alerted on the number of attempts remaining before the user is locked     out. But after successfully signing in is done, the page will redirect to the To-Do list website<br>
+![](Web_challenge_2/image2.jpeg)
+![](Web_challenge_2/image3.jpeg)
 3. To-Do list --- [grp-8-to-do.netlify.app](https://grp-8-to-do.netlify.app/)
 - After a succesful authentication from the previous challenge, the user will be able to access the To-Do list website where a user is able to create to-do tasks, mark or unmark them as complete, delete the tasks and update them.
 4. ATM Machine Web Application --- 
