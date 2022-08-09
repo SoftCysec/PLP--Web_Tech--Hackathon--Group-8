@@ -21,8 +21,9 @@ The hackathon comprised of 4 challenges where the teams were supposed to use onl
 ![](Web_challenge_3/image4.jpeg)
 - Marking and unmarking. Here the user will be able to mark the tasks as done and also unmark
 ![](Web_challenge_3/image5.jpeg)
-- and after confirming 
+- and after confirming that the user wants to mark the task as complete <br>
 ![](Web_challenge_3/image6.jpeg)
+- Above all the user is able to delete the tasks
 4. ATM Machine Web Application --- 
 - A web application was created that mimics the ATM machine where a user can check for balances, deposit cash , withdraw cash, transfer funds from one account to another, see transaction logs, exit the ATM site.
 # Group 8 Members & Contributers
