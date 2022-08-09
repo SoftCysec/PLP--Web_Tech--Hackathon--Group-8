@@ -13,6 +13,16 @@ The hackathon comprised of 4 challenges where the teams were supposed to use onl
 ![](Web_challenge_2/image3.jpeg)
 3. To-Do list --- [grp-8-to-do.netlify.app](https://grp-8-to-do.netlify.app/)
 - After a succesful authentication from the previous challenge, the user will be able to access the To-Do list website where a user is able to create to-do tasks, mark or unmark them as complete, delete the tasks and update them.
+![](Web_challenge_3/image1.jpeg)
+- now the user will be able to add new tasks one at a time where several functionalities are available for user's userability
+![](Web_challenge_3/image2.jpeg)
+- Editing and updating the already created tasks
+![](Web_challenge_3/image3.jpeg)
+![](Web_challenge_3/image4.jpeg)
+- Marking and unmarking. Here the user will be able to mark the tasks as done and also unmark
+![](Web_challenge_3/image5.jpeg)
+- and after confirming 
+![](Web_challenge_3/image6.jpeg)
 4. ATM Machine Web Application --- 
 - A web application was created that mimics the ATM machine where a user can check for balances, deposit cash , withdraw cash, transfer funds from one account to another, see transaction logs, exit the ATM site.
 # Group 8 Members & Contributers
