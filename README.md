@@ -37,7 +37,7 @@ The hackathon comprised of 4 challenges where the teams were supposed to use onl
 ![](Web_challenge_4/images/image4.jpeg)
 ![](Web_challenge_4/images/image5.jpeg)
 - Transcation for a selected account <br>
-![](Web_challenge_4/images/image6.jpeg)
+![](Web_challenge_4/images/image6.jpeg)<br>
 -- Depositing Cash <br>
 ![](Web_challenge_4/images/image7.jpeg)
 -- Withdrawing Cash <br>
