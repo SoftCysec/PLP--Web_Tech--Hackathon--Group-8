@@ -39,9 +39,9 @@ The hackathon comprised of 4 challenges where the teams were supposed to use onl
 - Transcation for a selected account <br>
 ![](Web_challenge_4/images/image6.jpeg)<br>
 -- Depositing Cash <br>
-![](Web_challenge_4/images/image7.jpeg)
+![](Web_challenge_4/images/image7.jpeg) <br>
 -- Withdrawing Cash <br>
-![](Web_challenge_4/images/image8.jpeg)
+![](Web_challenge_4/images/image8.jpeg) <br>
 -- Account Information -- with a printing functionality to print the logs and an exit button<br>
 ![](Web_challenge_4/images/image9.jpeg)
 - Transfer Funds from one account to another <br>
