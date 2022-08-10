@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>An online ATM program</title>
+    <link rel="stylesheet" type="text/css" href="style1.css" />
+  </head>
+  <body>
+    <div class="container">
+      <form
+        name="form1"
+        method="post"
+        onsubmit="return validatelogin()"
+        autocomplete="off"
+      >
+        <h3>Login</h3>
+        <p>
+          Default Credentials <br />
+          email:group8@gmail.com <br />
+          password:group8
+        </p>
+        <div class="error">
+          <p id="error"></p>
+        </div>
+        <div class="inputs">
+          <label for="email">Email Address</label>
+          <input type="text" name="email" />
+        </div>
+        <div class="inputs">
+          <label for="password">Password</label>
+          <input type="password" name="password" />
+        </div>
+        <div class="submit">
+          <input type="submit" value="Login" />
+        </div>
+        <div class="outtalink">
+          Don't have An Account?
+          <a href="index.html">SIgn Up</a>
+        </div>
+      </form>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>

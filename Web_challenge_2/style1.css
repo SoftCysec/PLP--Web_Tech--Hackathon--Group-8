@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+}
+
+body {
+    background: #333;
+}
+
+.container {
+    background: #f7f7f7;
+    width: 450px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 10px 15px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+form {
+    text-align: center;
+    padding: 10px 15px 10px 10px;
+}
+
+form h3 {
+    font-size: 28px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding-bottom: 2px;
+}
+
+form .error {
+    margin-bottom: 10px;
+}
+
+form .error p {
+    font-size: 19px;
+    height: 40px;
+    display: none;
+    border-radius: 10px;
+    background: rgb(221, 190, 190);
+    line-height: 35px;
+    color: rgb(218, 56, 78);
+}
+
+form .names {
+    padding-left: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+form .names .inputs {
+    width: 47%;
+    text-align: left;
+}
+
+form .names .inputs input {
+    width: 100%;
+    outline: none;
+    border: 1px solid;
+    background: rgb(212, 219, 219);
+    height: 40px;
+    border-radius: 5px;
+    font-size: 17px;
+    padding-left: 5px;
+}
+
+form .inputs {
+    width: 100%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+form .inputs input {
+    width: 100%;
+    outline: none;
+    border: 1px solid;
+    background: rgb(212, 219, 219);
+    height: 40px;
+    border-radius: 5px;
+    font-size: 17px;
+    padding-left: 5px;
+}
+
+form .submit {
+    margin-top: 20px;
+}
+
+form .submit input {
+    width: 70%;
+    height: 45px;
+    font-size: 19px;
+    background: #333;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    color: #fff;
+}
+
+form .submit input:hover {
+    width: 72%;
+    height: 47px;
+}
+
+form .confirm {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+form .outtalink a,
+form .confirm a {
+    color: blue;
+    text-decoration: none;
+}
+
+form .confirm a:visited {
+    color: purple;
+}
+
+form .outtalink a:hover,
+form .confirm a:hover {
+    color: rgb(42, 170, 212);
+}
+
+form .outtalink {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+@media (max-width:500px){
+
+    .container {
+        background: #f7f7f7;
+        width: 95%;
+        margin-top: 60px;
+        border-radius: 20px;
+        box-shadow: 10px 15px 10px 5px rgba(0, 0, 0, 0.5);
+    }
+  
+}

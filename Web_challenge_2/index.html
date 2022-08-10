@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="Favicon.ico" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>An online Planner program</title>
+    <link rel="stylesheet" type="text/css" href="style1.css" />
+</head>
+
+<body>
+    <div class="container">
+        <form name="form1" method="post" onsubmit="return validateform()" autocomplete="off">
+            <h3>Register</h3>
+            <p>
+                Default Credentials for the login page<br /> email:group8@gmail.com <br /> password:group8
+            </p>
+            <div class="error">
+                <p id="error"></p>
+            </div>
+            <div class="names">
+                <div class="inputs">
+                    <label for="fname">First Name</label>
+                    <input type="text" name="fname" />
+                </div>
+                <div class="inputs">
+                    <label for="lname">Surname</label>
+                    <input type="text" name="lname" />
+                </div>
+            </div>
+            <div class="inputs">
+                <label for="email">Email Address</label>
+                <input type="text" name="email" />
+            </div>
+            <div class="inputs">
+                <label for="phone">Phone Number</label>
+                <input type="text" name="phoneno" />
+            </div>
+            <div class="inputs">
+                <label for="password">Password</label>
+                <input type="password" name="password" />
+            </div>
+            <div class="inputs">
+                <label for="cpassword">Confirm Password</label>
+                <input type="password" name="cpassword" />
+            </div>
+            <div class="confirm">
+                <input type="checkbox" name="confirm" /> By signing in you agree to the <a href="#">Terms and conditions</a> of Blackmark Company
+            </div>
+            <div class="submit">
+                <input type="submit" value="Submit" />
+            </div>
+            <div class="outtalink">
+                Already have An Account?
+                <a href="login.html">Login Here</a>
+            </div>
+        </form>
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
