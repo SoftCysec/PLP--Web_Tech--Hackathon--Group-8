@@ -3,16 +3,16 @@ This is a web technologies hackathon that was held by PowerLearnProject from 5th
 ![](Web_challenge_2/Favicon.ico)
 # Hackathon Challenges
 The hackathon comprised of 4 challenges where the teams were supposed to use only HTML, CSS and vanilla Javascript. No frameworks were supposed to be implemented during the hackathon. After completing all the challenges we deployed them to the internet.
-1. Website portfolio ---  use this link to access the site
+1. Website portfolio ---  use this link to access the site [web-portfolio-grp-8.netlify.app](https://web-portfolio-grp-8.netlify.app/)
 - suppoed to create a website portfolio that will display the About of the group members, Services that we will be offering, Testimonials of the group members
-2. Authentication System ---  use this link to access the site [grp-8-to-do.netlify.app](https://grp-8-to-do.netlify.app/)
+2. Authentication System ---  use this link to access the site [to-do-list-grp-8.netlify.app](https://to-do-list-grp-8.netlify.app/)
 - the team created an authentication system that used vanilla Javascript that a login page will authenticate a user. After a successful login, the user will be taken to the To-Do list website.
 - login page where a user will use the default credentials to sign in
 ![](Web_challenge_2/image1.jpeg)
 - now when the user enters wrong credentials an error alert appears. But after successfully signing in is done, the page will redirect to the To-Do list website<br>
 ![](Web_challenge_2/image2.jpeg)
 ![](Web_challenge_2/image3.jpeg)
-3. To-Do list --- use this link to access the site [grp-8-to-do.netlify.app](https://to-do-list-grp-8.netlify.app/)
+3. To-Do list --- use this link to access the site [to-do-list-grp-8.netlify.app](https://to-do-list-grp-8.netlify.app/)
 - After a succesful authentication from the previous challenge, the user will be able to access the To-Do list website where a user is able to create to-do tasks, mark or unmark them as complete, delete the tasks and update them.
 ![](Web_challenge_3/image1.jpeg)
 - now the user will be able to add new tasks one at a time where several functionalities are available for user's userability
@@ -25,7 +25,7 @@ The hackathon comprised of 4 challenges where the teams were supposed to use onl
 - and after confirming that the user wants to mark the task as complete <br>
 ![](Web_challenge_3/image6.jpeg)
 - Above all the user is able to delete the tasks
-4. ATM Machine Web Application --- use this link to access the site [grp-8-atm.netlify.app](https://atm-web-grp-8.netlify.app/)
+4. ATM Machine Web Application --- use this link to access the site [atm-web-grp-8.netlify.app](https://atm-web-grp-8.netlify.app/)
 - A web application was created that mimics the ATM machine where a user can check for balances, deposit cash , withdraw cash, transfer funds from one account to another, see transaction logs, exit the ATM site.
 - System login using default credentials <br>
 ![](Web_challenge_4/images/image1.jpeg)
