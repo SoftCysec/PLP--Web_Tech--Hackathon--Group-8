@@ -9,7 +9,7 @@ The hackathon comprised of 4 challenges where the teams were supposed to use onl
 - the team created an authentication system that used vanilla Javascript that a login page will authenticate a user. After a successful login, the user will be taken to the To-Do list website.
 - login page where a user will use the default credentials to sign in
 ![](Web_challenge_2/image1.jpeg)
-- now when the user enters wrong credentials an error alert appears and the user is alerted on the number of attempts remaining before the user is locked     out. But after successfully signing in is done, the page will redirect to the To-Do list website<br>
+- now when the user enters wrong credentials an error alert appears. But after successfully signing in is done, the page will redirect to the To-Do list website<br>
 ![](Web_challenge_2/image2.jpeg)
 ![](Web_challenge_2/image3.jpeg)
 3. To-Do list --- use this link to access the site [grp-8-to-do.netlify.app](https://grp-8-to-do.netlify.app/)
