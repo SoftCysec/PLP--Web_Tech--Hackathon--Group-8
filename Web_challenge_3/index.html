@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>To-do List</title>
+    <meta charset="8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="shortcut icon" href="Favicon.ico" type="image/x-icon">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="page-header">
+            <h1>My Todo List</h1>
+        </div>
+
+        <div id="addTask">
+            <div class="top">
+                <div class="input-group input-group-lg mb-3">
+                    <input type="text" class="form-control" placeholder="Title of task..">
+                    <input type="text" class="form-control" placeholder="Task to be done..">
+                    <input type="datetime-local" class="form-control" id="time" placeholder="Select time">
+                    <button id="add" class="btn btn-primary"><i class="glyphicon glyphicon-plus"></i></button>
+
+                    <div class="button-group">
+                        <button id="update" style="display: none;" class="btn btn-primary"><i class="glyphicon glyphicon-ok"></i> </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr>
+
+        <br>
+        <div id="newTask"></div>
+        <div id="tasks"></div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>
