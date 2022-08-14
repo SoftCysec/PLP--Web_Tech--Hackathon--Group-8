@@ -5,4 +5,4 @@
 ![](https://github.com/SoftCysec/PLP--Web_Tech--Hackathon--Group-8/blob/main/Web_challenge_2/image1.jpeg?raw=true)
 - now when the user enters wrong credentials an error alert appears. But after successfully signing in is done, the page will redirect to the To-Do list website <br>
 ![](https://github.com/SoftCysec/PLP--Web_Tech--Hackathon--Group-8/blob/main/Web_challenge_2/image2.jpeg?raw=true)
-![](https://github.com/SoftCysec/PLP--Web_Tech--Hackathon--Group-8/blob/main/Web_challenge_2/image3.jpeg?raw=true)
+
